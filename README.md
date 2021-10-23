@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Juanrii
-- 👀 I’m interested in Web Development, 
-- 🌱 I’m currently learning React, I love it!
+- 👋 Hi from 🇦🇷! I’m @Juanrii,
+- 👨🏼‍💻 I work remotely for an American fintech. (PHP (Yii2) | Javascript | React | HTML5 | CSS3 | MySQL),
+- 👀 I’m interested in Software Development positions, 
+- 🌱 I’m currently learning Blockchain Development (Solidity, Smart Contracts, and moooore). I love it!
 - 📫 How to reach me juanrios0495@gmail.com
 
 <!---
