@@ -1,4 +1,5 @@
 - 👋 Hi from 🇦🇷! I’m @Juanrii,
+- 👨‍🎓 Systems Engineering student at the Universidad Abierta Interamericana and I'm also doing a Bachelor of Computer Science following the OSSU program,
 - 👨🏼‍💻 I work remotely for an American fintech. (PHP (Yii2) | Javascript | React | HTML5 | CSS3 | MySQL),
 - 👀 I’m interested in Software Development positions, 
 - 🌱 I’m currently learning Blockchain Development (Solidity, Smart Contracts, and moooore). I love it!
