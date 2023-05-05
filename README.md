@@ -4,7 +4,7 @@
 
 - 👨🏼‍💻 I work remotely for an American 🇺🇸 fintech company, where I primarily use: PHP (Yii2) | Javascript | React | HTML5 | CSS3 | MySQL. Applied Hexagonal     Architecture, CQRS, DDD, and SOLID principles to ensure code quality and sustainability.
 
-- 👀 I'm actively seeking new Software Development opportunities that challenge me and allow me to grow my skills.
+- 👀 I'm not actively seeking new job opportunities, but I'm open to hearing about new proposals that may come my way.
 
 - 🌱 Currently, I'm focused on learning Blockchain Development (Solidity, smart contracts), Artificial Intelligence and Machine Learning with Python.
 
