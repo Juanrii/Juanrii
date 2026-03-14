@@ -1,18 +1,36 @@
-- 👋 Hi there! I'm @Juanrii, a Software Developer based in 🇦🇷.
+- 👋 Hi there! I'm @Juanrii, a Computer Systems Engineer based in 🇦🇷.
 
-- 👨‍🎓 I'm currently pursuing a degree in Systems Engineering at [Universidad Abierta Interamericana](https://uai.edu.ar/), and I'm also studying Computer Science through the [OSSU Program](https://github.com/ossu/computer-science#summary).
+- 👨‍🎓 I graduated from [Universidad Abierta Interamericana](https://uai.edu.ar/) and also studied Computer Science through the [OSSU Program](https://github.com/ossu/computer-science#summary).
 
-- 👨🏼‍💻 In my current role as a Backend Developer for an American 🇺🇸 fintech, I primarily use:
-  
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+- 👨🏼‍💻 I’m specialized in backend development, with a focus on software engineering, system design, and continuous improvement.
 
-- 🏗️ Applied Hexagonal Architecture, CQRS, DDD, and SOLID principles to ensure code quality and sustainability.    
+- 🏗️ I am interested in analyzing problems and building maintainable backend solutions, guided by concepts such as Hexagonal Architecture, CQRS, DDD, and SOLID.
 
-- 👀 I'm not actively seeking new job opportunities, but I'm open to hearing about new proposals that may come my way.
+- 👀 I value clear thinking, good practices, and continuous learning as part of my professional growth.
 
-- 🌱 Currently, I'm focused on learning Blockchain Development (Solidity, smart contracts), Artificial Intelligence and Machine Learning with Python.
+- 🌱 Currently, I'm building experience in applied AI by working with topics such as RAG, vector databases, embeddings, semantic search, and retrieval systems.
 
-- 📫 Want to connect? You can reach me at juanrios0495@gmail.com / Conect with me on [LinkedIn!](https://www.linkedin.com/in/riosjuan/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/riosjuan/) or at juanrios0495@gmail.com
+
+<h3 align="center">Technologies I usually work with</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 <!---
 Juanrii/Juanrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
